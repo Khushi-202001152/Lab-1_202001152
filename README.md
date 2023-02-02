@@ -1,7 +1,7 @@
 # Lab-1_202001152
 ## Lab 1 - Functional and Non-functional requirement
 
-1. Library
+## Q1. Library
 
 ### Functional requirements:
 1. log in required for student, professor or employees.
@@ -13,29 +13,29 @@
 7. Everyone can browse or search the book
 
 
-**Non functional requirement:**
+### Non functional requirement:
 1. Allows only who access through university LAN
-user friendly interface
-payment should be reliable, fast, secure
-Limit on book issued per user
-Available for 24x7
-scalibility at large extent as it will have many user
-many user can access at same time, concurrancy 
+2. user friendly interface
+3. payment should be reliable, fast, secure
+4. Limit on book issued per user
+5. Available for 24x7
+6. scalibility at large extent as it will have many user
+7. many user can access at same time, concurrancy 
 
 
-2. Hearing device
+## Q2. Hearing device
 
-scope: 
-People have hearing loss.
-someone who have basic knowledge to use this application
+### scope: 
+1. People have hearing loss.
+2. someone who have basic knowledge to use this application
 
 
-Features:
-It detect sound and give alert to user through mobile application
-Continous logging for user
+### Features:
+1. It detect sound and give alert to user through mobile application
+2. Continous logging for user
 
-Non functional requirement:
-scalability based on region, it requires globally
-sound sensor sholud be efficient
-Algorithm to detect sound should be correct, i.e. sound of bell is not like car-horn.
-It should have low latency
+### Non functional requirement:
+1. scalability based on region, it requires globally
+2. sound sensor sholud be efficient
+3. Algorithm to detect sound should be correct, i.e. sound of bell is not like car-horn.
+4. It should have low latency
